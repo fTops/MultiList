@@ -155,7 +155,7 @@
     <ClCompile Include="ListClass.cpp" />
     <ClCompile Include="MultiList.cpp" />
     <ClCompile Include="MultiListClass.cpp" />
-    <ClCompile Include="Node.cpp" />
+    <ClCompile Include="NodeClass.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
